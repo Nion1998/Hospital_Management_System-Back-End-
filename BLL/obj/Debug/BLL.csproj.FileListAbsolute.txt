@@ -1,0 +1,70 @@
+E:\AIUB ALL FILES\10th Semester AIUB\Hospital_Management\BLL\bin\Debug\BLL.dll
+E:\AIUB ALL FILES\10th Semester AIUB\Hospital_Management\BLL\bin\Debug\BLL.pdb
+E:\AIUB ALL FILES\10th Semester AIUB\Hospital_Management\BLL\bin\Debug\DAL.dll
+E:\AIUB ALL FILES\10th Semester AIUB\Hospital_Management\BLL\bin\Debug\DAL.pdb
+E:\AIUB ALL FILES\10th Semester AIUB\Hospital_Management\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\AIUB ALL FILES\10th Semester AIUB\Hospital_Management\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\AIUB ALL FILES\10th Semester AIUB\Hospital_Management\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\AIUB ALL FILES\10th Semester AIUB\Hospital_Management\BLL\obj\Debug\BLL.dll
+E:\AIUB ALL FILES\10th Semester AIUB\Hospital_Management\BLL\obj\Debug\BLL.pdb
+E:\AIUB ALL FILES\10th Semester AIUB\Hospital_Management\BLL\bin\Debug\AutoMapper.dll
+E:\AIUB ALL FILES\10th Semester AIUB\Hospital_Management\BLL\bin\Debug\EntityFramework.dll
+E:\AIUB ALL FILES\10th Semester AIUB\Hospital_Management\BLL\bin\Debug\DAL.dll.config
+E:\AIUB ALL FILES\10th Semester AIUB\Hospital_Management\BLL\bin\Debug\AutoMapper.xml
+E:\AIUB ALL FILES\10th Semester AIUB\Hospital_Management\BLL\bin\Debug\EntityFramework.xml
+E:\AIUB ALL FILES\Final Project\Hospital_Management\BLL\bin\Debug\BLL.dll
+E:\AIUB ALL FILES\Final Project\Hospital_Management\BLL\bin\Debug\BLL.pdb
+E:\AIUB ALL FILES\Final Project\Hospital_Management\BLL\bin\Debug\AutoMapper.dll
+E:\AIUB ALL FILES\Final Project\Hospital_Management\BLL\bin\Debug\DAL.dll
+E:\AIUB ALL FILES\Final Project\Hospital_Management\BLL\bin\Debug\EntityFramework.dll
+E:\AIUB ALL FILES\Final Project\Hospital_Management\BLL\bin\Debug\DAL.pdb
+E:\AIUB ALL FILES\Final Project\Hospital_Management\BLL\bin\Debug\DAL.dll.config
+E:\AIUB ALL FILES\Final Project\Hospital_Management\BLL\bin\Debug\AutoMapper.xml
+E:\AIUB ALL FILES\Final Project\Hospital_Management\BLL\bin\Debug\EntityFramework.xml
+E:\AIUB ALL FILES\Final Project\Hospital_Management\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\AIUB ALL FILES\Final Project\Hospital_Management\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\AIUB ALL FILES\Final Project\Hospital_Management\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\AIUB ALL FILES\Final Project\Hospital_Management\BLL\obj\Debug\BLL.dll
+E:\AIUB ALL FILES\Final Project\Hospital_Management\BLL\obj\Debug\BLL.pdb
+C:\Users\Nion\Desktop\Hospital_Management\BLL\bin\Debug\BLL.dll
+C:\Users\Nion\Desktop\Hospital_Management\BLL\bin\Debug\BLL.pdb
+C:\Users\Nion\Desktop\Hospital_Management\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Nion\Desktop\Hospital_Management\BLL\bin\Debug\DAL.dll
+C:\Users\Nion\Desktop\Hospital_Management\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Nion\Desktop\Hospital_Management\BLL\bin\Debug\DAL.pdb
+C:\Users\Nion\Desktop\Hospital_Management\BLL\bin\Debug\DAL.dll.config
+C:\Users\Nion\Desktop\Hospital_Management\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Nion\Desktop\Hospital_Management\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Nion\Desktop\Hospital_Management\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Nion\Desktop\Hospital_Management\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Nion\Desktop\Hospital_Management\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Nion\Desktop\Hospital_Management\BLL\obj\Debug\BLL.dll
+C:\Users\Nion\Desktop\Hospital_Management\BLL\obj\Debug\BLL.pdb
+F:\Hospital_Management\BLL\bin\Debug\BLL.dll
+F:\Hospital_Management\BLL\bin\Debug\BLL.pdb
+F:\Hospital_Management\BLL\bin\Debug\AutoMapper.dll
+F:\Hospital_Management\BLL\bin\Debug\DAL.dll
+F:\Hospital_Management\BLL\bin\Debug\EntityFramework.dll
+F:\Hospital_Management\BLL\bin\Debug\DAL.pdb
+F:\Hospital_Management\BLL\bin\Debug\DAL.dll.config
+F:\Hospital_Management\BLL\bin\Debug\AutoMapper.xml
+F:\Hospital_Management\BLL\bin\Debug\EntityFramework.xml
+F:\Hospital_Management\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\Hospital_Management\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\Hospital_Management\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\Hospital_Management\BLL\obj\Debug\BLL.dll
+F:\Hospital_Management\BLL\obj\Debug\BLL.pdb
+G:\10th semestar\Dot Net\Project\Final Project\Hospital_Management\BLL\bin\Debug\BLL.dll
+G:\10th semestar\Dot Net\Project\Final Project\Hospital_Management\BLL\bin\Debug\BLL.pdb
+G:\10th semestar\Dot Net\Project\Final Project\Hospital_Management\BLL\bin\Debug\AutoMapper.dll
+G:\10th semestar\Dot Net\Project\Final Project\Hospital_Management\BLL\bin\Debug\DAL.dll
+G:\10th semestar\Dot Net\Project\Final Project\Hospital_Management\BLL\bin\Debug\EntityFramework.dll
+G:\10th semestar\Dot Net\Project\Final Project\Hospital_Management\BLL\bin\Debug\DAL.pdb
+G:\10th semestar\Dot Net\Project\Final Project\Hospital_Management\BLL\bin\Debug\DAL.dll.config
+G:\10th semestar\Dot Net\Project\Final Project\Hospital_Management\BLL\bin\Debug\AutoMapper.xml
+G:\10th semestar\Dot Net\Project\Final Project\Hospital_Management\BLL\bin\Debug\EntityFramework.xml
+G:\10th semestar\Dot Net\Project\Final Project\Hospital_Management\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+G:\10th semestar\Dot Net\Project\Final Project\Hospital_Management\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+G:\10th semestar\Dot Net\Project\Final Project\Hospital_Management\BLL\obj\Debug\BLL.csproj.CopyComplete
+G:\10th semestar\Dot Net\Project\Final Project\Hospital_Management\BLL\obj\Debug\BLL.dll
+G:\10th semestar\Dot Net\Project\Final Project\Hospital_Management\BLL\obj\Debug\BLL.pdb
